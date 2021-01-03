@@ -1,0 +1,20 @@
+body{
+   background-image: linear-gradient(red,brown,yellow);
+    text-align: center;
+    transform-style: preserve-3d;
+   
+}
+img{
+    padding-left:150px;
+    width:100%;
+    align-self: center;
+    border-style: groove;
+    border-color: black;
+    border-width: thick;
+    
+    
+}
+#myCarousel{
+    background-color: darkgray;
+    align-content: center;
+}
